@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - RAM HACKS HOMEPAGE
+# PROJECT - RAM HACKS HOMEPAGE
 
 ##  Features
 
@@ -27,7 +27,9 @@ NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
 $$
 
 * Code highlight with Rouge
-* Editted by Julio
+* Working with projects and programing challegnes
+* Robotics
+* Editted by Julio and Michael and Tim and Jacob  :/
 
 ```ruby
 # Ruby code with syntax highlighting
