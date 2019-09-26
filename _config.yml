@@ -2,7 +2,7 @@
 title: RamHacks
 owner: "RamHacks"
 url: "https://rhodyra.ms"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
