@@ -27,7 +27,7 @@ NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
 $$
 
 * Code highlight with Rouge
-* Editted by Julio
+* Editted by Julio and also Tim Brady
 
 ```ruby
 # Ruby code with syntax highlighting
