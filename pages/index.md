@@ -10,8 +10,8 @@ author: ""
 encrypted_text: true
 permalink: /
 ---
-<img src="https://i.pinimg.com/originals/af/5e/c1/af5ec12b1a96848d9e99487e1c18ad9e.jpg">
-# PROJECT - RAM HACKS HOMEPAGE
+
+# <a href="https://rhodyra.ms"> PROJECT - RAM HACKS HOMEPAGE </a>
 
 ##  Features
 
@@ -21,15 +21,13 @@ permalink: /
   * secret msg 2:
   <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
 * LaTeX formula Support with MathJax
-<a href = "https://drive.google.com/file/d/1tmve0uCf0T2ayfg01IcHxJUOEBNJpo_b/view?usp=sharing)"> "expanding meme" </a>
-
 
 $$
 NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
 $$
 
 * Code highlight with Rouge
-* Working with projects and programing challegnes
+* Working with projects and programming challenges
 * Robotics
 * Editted by Julio and Michael and Tim and Jacob  :/
 
