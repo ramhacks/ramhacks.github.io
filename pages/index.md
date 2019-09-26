@@ -5,13 +5,13 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: ""
+title: "Jack you a dirty girl"
 author: ""
 encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - RAM HACKS HOMEPAGE
+# PROJECT - RAM HACKS HOMEPAGE
 
 ##  Features
 
@@ -21,14 +21,15 @@ permalink: /
   * secret msg 2:
   <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
 * LaTeX formula Support with MathJax
- ![](meme.png)
 
 $$
 NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
 $$
 
 * Code highlight with Rouge
-* Editted by Julio and also Tim Brady
+* Working with projects and programing challegnes
+* Robotics
+* Editted by Julio and Michael and Tim and Jacob  :/
 
 ```ruby
 # Ruby code with syntax highlighting
