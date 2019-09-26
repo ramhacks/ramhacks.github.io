@@ -25,6 +25,7 @@ RAM Hacks is a student run organization at the University of Rhode Island. We pl
 * Robotics
 * Editted by Julio and Michael and Tim and Jacob  :/
 
+
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
