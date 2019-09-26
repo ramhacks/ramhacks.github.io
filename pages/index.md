@@ -13,10 +13,11 @@ permalink: /
 <img src="https://i.pinimg.com/originals/af/5e/c1/af5ec12b1a96848d9e99487e1c18ad9e.jpg">
 # PROJECT - RAM HACKS HOMEPAGE
 *Herro World*
-RAM Hacks is a nonprofit run out of the University of Rhode Island in Kingston, Rhode Island. We have had over 3 meetings this year! We have over 10 members with about a 50% attendence rate! 
+RAM Hacks is a nonprofit run out of the University of Rhode Island in Kingston, Rhode Island. We have had over 3 meetings this year! 
 ##  Features
 
 <a href = "https://drive.google.com/file/d/1tmve0uCf0T2ayfg01IcHxJUOEBNJpo_b/view?usp=sharing)"> "expanding meme" </a>
+<img src = "https://drive.google.com/file/d/1H6SUWwG6mUcjYAyhSF5ooDmqJWeDWlhq/view?usp=sharing">
 
 
 $$
