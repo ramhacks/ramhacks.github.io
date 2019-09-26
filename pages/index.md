@@ -20,10 +20,6 @@ RAM Hacks is a student run organization at the University of Rhode Island. We pl
 <a href = "https://drive.google.com/file/d/1tmve0uCf0T2ayfg01IcHxJUOEBNJpo_b/view?usp=sharing)"> "expanding meme" </a>
 
 
-$$
-NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
-$$
-
 * Code highlight with Rouge
 * Working with projects and programming challenges
 * Robotics
