@@ -11,8 +11,8 @@ encrypted_text: false
 
 permalink: /
 ---
+# Ram Hacks - Computer Science Interests Group Homepage
 
-# PROJECT - RAM HACKS HOMEPAGE
 *Herro World*
 RAM Hacks is a nonprofit run out of the University of Rhode Island in Kingston, Rhode Island. We have had over 3 meetings this year! We have over 10 members with about a 50% attendence rate!
 
@@ -25,3 +25,4 @@ RAM Hacks is a nonprofit run out of the University of Rhode Island in Kingston, 
 * Robotics
 * Eating Kingston Pizza every other week because we are poor :(
 * Editted by Julio and Michael and Tim and Jacob  :/
+
