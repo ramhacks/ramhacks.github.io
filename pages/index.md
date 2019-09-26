@@ -25,8 +25,7 @@ $$
 * Code highlight with Rouge
 * Working with projects and programing challegnes
 * Robotics
-* Eating Kingston Pizza every other week because we are poor :(
-* Editted by Julio and Michael and Tim and Jacob  :/
+* Editted by Julio and Michael and Tim and Jacob 
 
 ```ruby
 # Ruby code with syntax highlighting
