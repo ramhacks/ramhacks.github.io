@@ -10,7 +10,7 @@ author: ""
 encrypted_text: true
 permalink: /
 ---
-
+<img src="https://i.pinimg.com/originals/af/5e/c1/af5ec12b1a96848d9e99487e1c18ad9e.jpg">
 # PROJECT - RAM HACKS HOMEPAGE
 
 ##  Features
