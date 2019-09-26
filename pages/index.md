@@ -8,14 +8,15 @@ footer: true
 title: ""
 author: ""
 encrypted_text: true
+
 permalink: /
 ---
-<body background="sad.jpg">
+
 # PROJECT - RAM HACKS HOMEPAGE
 *Herro World*
 RAM Hacks is a nonprofit run out of the University of Rhode Island in Kingston, Rhode Island. We have had over 3 meetings this year! We have over 10 members with about a 50% attendence rate!
 ##  Features
-
+<body background="sad.jpg">
 <a href = "https://drive.google.com/file/d/1tmve0uCf0T2ayfg01IcHxJUOEBNJpo_b/view?usp=sharing)"> "expanding meme" </a>
 
 
