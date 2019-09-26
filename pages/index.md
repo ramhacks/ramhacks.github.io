@@ -25,7 +25,7 @@ NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
 $$
 
 * Code highlight with Rouge
-* Working with projects and programing challegnes
+* Working with projects and programming challenges
 * Robotics
 * Editted by Julio and Michael and Tim and Jacob  :/
 
