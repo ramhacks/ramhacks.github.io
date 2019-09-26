@@ -1,6 +1,6 @@
 ## Settings
-title: Ram Hacks
-owner: "ramhacks"
+title: RamHacks
+owner: "RamHacks"
 url: "https://rhodyra.ms"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
@@ -18,4 +18,4 @@ statement: "RAM Hacks, URI CS"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
-bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√':pizza:"
