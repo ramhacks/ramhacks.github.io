@@ -3,12 +3,11 @@
         <ul>
             <li class="copyright">
                 © 2019
+                {% if site.statement %}
+                    - {{ site.statement }}
+                {% endif %}
             </li>
-            {% if site.statement %}
-            <li>
-                {{ site.statement }}
-            </li>
-            {% endif %}
+        </ul>
     </nav>
-    </ul>
+
 </div>

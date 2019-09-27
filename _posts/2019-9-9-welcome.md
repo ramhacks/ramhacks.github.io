@@ -2,7 +2,7 @@
 title: Welcome, Rams!
 layout: post
 category: announcement
-date: 2019-1-9
+date: 2019-9-9
 ---
 
 Welcome to the Ram Hacks website! We will post announcements and events happening on this website. So Make sure to check it out once in a while.

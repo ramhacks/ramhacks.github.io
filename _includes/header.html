@@ -16,7 +16,7 @@
                 {% endif %}
                 <!-- email -->
                 {% if site.email != ""%}
-                    <a class="header_btn" href="mailto://{{ site.email }}">
+                    <a class="header_btn" href="mailto:{{ site.email }}">
                         <i class="fa fa-envelope-square">
                             {% if page.btn_text != false %}
                                 <p class="btn_text">Email</p>
@@ -104,7 +104,7 @@
         {% assign toclv = page.toc_level %}
         {% elsif  site.toc_level %}
         {% assign toclv = site.toc_level %}
-        {% else %} 
+        {% else %}
         {% assign toclv = 3 %}
     {% endif %}
     <!-- generate toc -->
