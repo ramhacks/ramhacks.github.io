@@ -21,3 +21,5 @@ RAM Hacks is a student-run club at the [University of Rhode Island](https://cs.u
 * Working on cool projects
 * Robotics
 * 💻
+
+[Sign Up Now!](http://eepurl.com/dPPHOf)
