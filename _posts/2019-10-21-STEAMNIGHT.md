@@ -1,5 +1,5 @@
 ---
-title: STEAM NIGHT VOLUNTEERING
+title: STEAM VOLUNTEERING
 layout: post
 category: event
 date: 2019-10-31
