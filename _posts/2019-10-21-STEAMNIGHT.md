@@ -17,4 +17,4 @@ Volunteers can help for both shifts, which would be 4-7:30 PM.
 Organizers are really interested in connecting the elementary students with URI students in science, technology, engineering, arts, and math! 
 You all are great role models for these kids!
 
-[#RSVP HERE](https://docs.google.com/forms/d/e/1FAIpQLSeuNS8B2wTNJXS0EcRkac8PvOGlzIG6qMrr3fUDnQ7Fg3pFBw/viewform)
+[**RSVP HERE**](https://docs.google.com/forms/d/e/1FAIpQLSeuNS8B2wTNJXS0EcRkac8PvOGlzIG6qMrr3fUDnQ7Fg3pFBw/viewform)
