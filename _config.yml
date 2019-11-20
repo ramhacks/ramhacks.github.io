@@ -4,7 +4,7 @@ owner: ""
 url: "https://rhodyra.ms"
 baseurl: "/"
 permalink: /:title/
-description: ""
+description: "Showcase for projects and announcements by the Undergraduate Computer Science Interest Group at the University of Rhode Island"
 markdown: kramdown
 webrick:
   headers:
@@ -18,4 +18,4 @@ statement: "RAM Hacks, URI's Offical Computer Science Interest Group"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
-bgtext: "10101010101101010010101010101010101010101√"
+bgtext: "10101010101101010010101010101010101010101"
