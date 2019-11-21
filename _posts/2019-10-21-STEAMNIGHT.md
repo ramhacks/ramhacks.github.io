@@ -13,9 +13,9 @@ You all are great role models for these kids!
 
 #INFORMATION FOR STEAM NIGHT
 
-The school is West Kingston Elementary School and it’s located at 3119 Ministerial Road, West Kingston, RI. Plains Road on the west side of campus turns into Ministerial after you cross Rt 138. Once you cross 138 the school is on your left (enter at the second entrance with the sign for the school). The school is set off the road and behind a wooded area that is adjacent to the road.  
+The school is West Kingston Elementary School and it’s located at __**3119 Ministerial Road, West Kingston, RI**__. Plains Road on the west side of campus turns into Ministerial after you cross Rt 138. Once you cross 138 the school is on your left (enter at the second entrance with the sign for the school). The school is set off the road and behind a wooded area that is adjacent to the road.  
 
-Set-up is 4:30 - 6:00 PM 
+Set-up is **4:30 - 6:00 PM**
 Volunteering for event is 5:30 - 7:30 PM (most volunteers needed at this time)
 
 We have no idea what the front entrance will look like that night as there has been construction going on. We are hoping it will be all set and we can enter the school that way.  Once you come in, please find Lisa Kuosmanen or Becky Yedlowski to check in and get an assigned station for the night as well as a name tag.  If you are coming for set up (4:30-6:00), we will assign you to an area to set up.
