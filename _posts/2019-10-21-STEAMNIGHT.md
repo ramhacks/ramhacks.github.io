@@ -26,4 +26,3 @@ We're sure there will be more that night to cover, but this is a good start.  We
 
 
 
-[//]: # ([**RSVP HERE**](https://docs.google.com/forms/d/e/1FAIpQLSeuNS8B2wTNJXS0EcRkac8PvOGlzIG6qMrr3fUDnQ7Fg3pFBw/viewform))
